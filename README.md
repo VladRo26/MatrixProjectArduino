@@ -22,10 +22,11 @@ Create an engaging game using an 8x8 LED Matrix. The game should have a menu wit
 
 ## Video:
 
-https://youtu.be/ZjXFIXc4ClI
+https://youtu.be/Y1YXCt6dkRg
 
 ## Code:
 The code is uploaded with the file name: matrix_project.ino
+
 
 ## Game
 
