@@ -10,9 +10,9 @@ Create an engaging game using an 8x8 LED Matrix. The game should have a menu wit
 • Joystick
 • 8x8 LED Matrix
 • MAX7219
+• Buzzer
 • Resistors and capacitors as needed
 • Breadboard and connecting wires
-• (Optional) Additional sensors / components for extended functionality
 
 ## Game
 
