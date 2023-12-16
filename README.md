@@ -20,12 +20,12 @@ Create an engaging game using an 8x8 LED Matrix. The game should have a menu wit
 ![poza_m_3](https://github.com/VladRo26/MatrixProjectArduino/assets/100710098/f0224cee-0bb3-424f-932e-116b733453b3=200x200)
 ![poza_m_2](https://github.com/VladRo26/MatrixProjectArduino/assets/100710098/8c3e9468-2b16-40a1-af02-0ba7acb4e045=200x200)
 
-
-
-
 ## Video:
 
+https://youtu.be/ZjXFIXc4ClI
+
 ## Code:
+The code is uploaded with the file name: matrix_project.ino
 
 
 ## Game 
