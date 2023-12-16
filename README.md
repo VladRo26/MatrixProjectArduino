@@ -14,8 +14,21 @@ Create an engaging game using an 8x8 LED Matrix. The game should have a menu wit
 - Resistors and capacitors as needed
 - Breadboard and connecting wires
 
+## Pictures:
 
-## Game
+![poza_m_1](https://github.com/VladRo26/MatrixProjectArduino/assets/100710098/50ba8fcb-456e-487a-9a99-dd5c324ee12c=200x200)
+![poza_m_3](https://github.com/VladRo26/MatrixProjectArduino/assets/100710098/f0224cee-0bb3-424f-932e-116b733453b3=200x200)
+![poza_m_2](https://github.com/VladRo26/MatrixProjectArduino/assets/100710098/8c3e9468-2b16-40a1-af02-0ba7acb4e045=200x200)
+
+
+
+
+## Video:
+
+## Code:
+
+
+## Game 
 
 ### About the Game
 
