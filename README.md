@@ -40,11 +40,11 @@ In "Turis Game," players navigate through levels where walls are randomly genera
 
 ### How to play
 
--Navigating the Player: Use the joystick to move the player around the game map.
--Planting Bombs: Press the joystick button to plant a bomb, which is key for destroying walls.
+- Navigating the Player: Use the joystick to move the player around the game map
+- Planting Bombs: Press the joystick button to plant a bomb, which is key for destroying walls
 Menu Navigation:
--Move through menu options using the joystick.
--Select an option by pressing the joystick button.
-To go back or exit a menu, use the joystick button.
+- Move through menu options using the joystick.
+- Select an option by pressing the joystick button
+To go back or exit a menu, use the joystick button
 
 
