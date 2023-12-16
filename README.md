@@ -27,10 +27,12 @@ https://youtu.be/ZjXFIXc4ClI
 ## Code:
 The code is uploaded with the file name: matrix_project.ino
 
-
-## Game 
+## Game
 
 ### About the Game
+
+For my project, I selected "Turis Game," a reinterpretation of the iconic Bomberman game. The game's original name eludes me, but its resemblance to Bomberman is striking. This variant, in my view, offers a more enjoyable experience than the classic version, although this is admittedly a subjective assessment. My initial plan was to recreate the original Bomberman, but I was drawn to the simplicity and engaging logic of this version. It struck me as an excellent fit for the project, blending straightforward gameplay with a personal touch of fun.
+
 
 ### Game description
 
