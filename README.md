@@ -36,6 +36,15 @@ For my project, I selected "Turis Game," a reinterpretation of the iconic Bomber
 
 ### Game description
 
+In "Turis Game," players navigate through levels where walls are randomly generated in a selected portion of the map, adjustable in the settings. The player character is also randomly spawned on the map. The primary objective is to destroy these walls to complete a level. With each level progression, the number of bombs available to the player decreases, adding to the game's challenge. A level is successfully completed when all the walls are destroyed. 
+
 ### How to play
+
+-Navigating the Player: Use the joystick to move the player around the game map.
+-Planting Bombs: Press the joystick button to plant a bomb, which is key for destroying walls.
+Menu Navigation:
+-Move through menu options using the joystick.
+-Select an option by pressing the joystick button.
+To go back or exit a menu, use the joystick button.
 
 
